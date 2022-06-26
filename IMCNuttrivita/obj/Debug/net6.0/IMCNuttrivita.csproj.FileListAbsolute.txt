@@ -1,0 +1,12 @@
+D:\UC15\NutriVittaIMC\IMCNuttrivita\IMCNuttrivita\bin\Debug\net6.0\IMCNuttrivita.deps.json
+D:\UC15\NutriVittaIMC\IMCNuttrivita\IMCNuttrivita\bin\Debug\net6.0\IMCNuttrivita.dll
+D:\UC15\NutriVittaIMC\IMCNuttrivita\IMCNuttrivita\bin\Debug\net6.0\IMCNuttrivita.pdb
+D:\UC15\NutriVittaIMC\IMCNuttrivita\IMCNuttrivita\obj\Debug\net6.0\IMCNuttrivita.csproj.AssemblyReference.cache
+D:\UC15\NutriVittaIMC\IMCNuttrivita\IMCNuttrivita\obj\Debug\net6.0\IMCNuttrivita.GeneratedMSBuildEditorConfig.editorconfig
+D:\UC15\NutriVittaIMC\IMCNuttrivita\IMCNuttrivita\obj\Debug\net6.0\IMCNuttrivita.AssemblyInfoInputs.cache
+D:\UC15\NutriVittaIMC\IMCNuttrivita\IMCNuttrivita\obj\Debug\net6.0\IMCNuttrivita.AssemblyInfo.cs
+D:\UC15\NutriVittaIMC\IMCNuttrivita\IMCNuttrivita\obj\Debug\net6.0\IMCNuttrivita.csproj.CoreCompileInputs.cache
+D:\UC15\NutriVittaIMC\IMCNuttrivita\IMCNuttrivita\obj\Debug\net6.0\IMCNuttrivita.dll
+D:\UC15\NutriVittaIMC\IMCNuttrivita\IMCNuttrivita\obj\Debug\net6.0\refint\IMCNuttrivita.dll
+D:\UC15\NutriVittaIMC\IMCNuttrivita\IMCNuttrivita\obj\Debug\net6.0\IMCNuttrivita.pdb
+D:\UC15\NutriVittaIMC\IMCNuttrivita\IMCNuttrivita\obj\Debug\net6.0\ref\IMCNuttrivita.dll
